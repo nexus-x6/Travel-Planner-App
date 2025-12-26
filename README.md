@@ -522,5 +522,3 @@ This project is licensed under the GPL-3.0 License. See the LICENSE file for mor
 ## Acknowledgments
 
 Special thanks to the GraphQL and TypeScript communities for providing great tools and resources.
-
-Copyright 2023, Max Base
